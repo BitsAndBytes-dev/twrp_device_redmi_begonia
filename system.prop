@@ -1,7 +1,5 @@
-ro.mediatek.chip_ver=S01
-ro.mediatek.platform=MT6785
-ro.mtk_tee_gp_support=1
-ro.mtk_microtrust_tee_support=1
-ro.mtk_soter_support=1
-ro.boot.avb_version=1.0
-ro.boot.vbmeta.avb_version=1.0
+ro.crypto.volume.filenames_mode=aes-256-cts
+ro.vendor.mtk_tee_gp_support=1
+ro.hardware.kmsetkey=beanpod
+ro.hardware.gatekeeper=beanpod
+ro.vendor.mtk_microtrust_tee_support=1
